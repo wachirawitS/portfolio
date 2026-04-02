@@ -30,6 +30,23 @@ I believe in building software that is:
 - Cost-Effective: Leveraging Cloud Native features to provide maximum business value at minimum cost.
 - Security-First: Proactive remediation and adherence to compliance standards.
 
+## 🏗 Architecture & Team Management Playbook
+I believe in leading through systems, well-defined boundaries, and documentation rather than micromanagement. A well-architected project should naturally guide the team toward best practices, allowing developers to work autonomously.
+
+**1. Code Structure & Architectural Strategy**
+- **Feature-Based Architecture:** Structuring applications by **Domain/Feature** (e.g., Claims, Users) rather than file types. This ensures isolation, prevents bloated folders, and makes onboarding new developers straightforward.
+- **Strict Module Boundaries:** Enforcing cross-feature communication via strict contracts (e.g., utilizing `index.ts` barrel files as public APIs). Feature A should never directly mutate the internal state of Feature B.
+- **Scalable Ecosystems:** Utilizing Monorepo strategies (where applicable) to share UI components (Shadcn) and core logic seamlessly across different user roles (Admin vs. Customer portals).
+
+**2. Developer Experience (DX) & Team Workflow**
+- **Doc-Driven Development:** Relying on Architecture Decision Records (ADRs) and comprehensive READMEs as the team's single source of truth.
+- **Automated Guardrails:** Leveraging CI/CD pipelines to enforce code formatting, linting, and basic tests. This keeps Code Reviews focused on logic and architectural impact rather than syntax nitpicking.
+- **Git Workflow:** Standardized PR processes with required approvals, ensuring main branches are permanently deployable.
+
+**3. Delivery Strategy**
+- **Timeboxing & MVP:** Prioritizing "Minimum Viable Portfolios/Products" to deliver concrete value fast. 
+- **Done over Perfect:** Focusing on completing the core engine and demonstrating the overarching structure before optimizing minor details.
+
 ## 📫 Contact & Links
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/wachirawit-sihawong)
 - **Email**: wachirawit.ntsi@gmail.com
