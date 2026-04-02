@@ -30,7 +30,7 @@ I believe in building software that is:
 - Cost-Effective: Leveraging Cloud Native features to provide maximum business value at minimum cost.
 - Security-First: Proactive remediation and adherence to compliance standards.
 
-## 🏗 Frontend Architecture & Team Management Playbook
+## 🏗 Frontend Architecture
 I believe in leading through systems, well-defined boundaries, and documentation rather than micromanagement. A well-architected project should naturally guide the team toward best practices, allowing developers to work autonomously. [next-feature-base-structure](https://github.com/wachirawitS/next-feature-base-structure)
 
 **1. Code Structure & Architectural Strategy**
