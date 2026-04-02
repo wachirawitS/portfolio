@@ -16,8 +16,8 @@ Welcome to my project showcase repository. This space is dedicated to documentin
 - Key Achievement: Architected a production-ready system on AWS with a strict focus on cost-efficiency.
 - Highlights: Implemented EC2 Savings Plans to optimize monthly burn.
 
-### 2. Line Web Chat Hands-on [Details](https://github.com/wachirawitS/webchat-hands-on)
-**Live Demo**: [Link](https://webchat-hands-on-idgr.vercel.app/)
+### 2. Line Web Chat Hands-on [webchat-hands-on](https://github.com/wachirawitS/webchat-hands-on)
+**Live Demo**: [Link Demo](https://webchat-hands-on-idgr.vercel.app/)
 - Omni-channel Messaging Integration using Line Messaging API and Next.js.
 - Focus: Event-Driven Integration & Serverless Scalability.
 - Key Achievement: Designed a seamless Event-Driven Webhook architecture to handle real-time messaging with 0$ idle infrastructure cost.
