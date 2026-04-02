@@ -10,7 +10,7 @@ Welcome to my project showcase repository. This space is dedicated to documentin
 
 ## 📂 Featured Projects
 
-### 1. Claim OS [Link](claim-outsourcing-management/README.md)
+### 1. Claim OS [link](claim-outsourcing-management/README.md)
 - End-to-end Insurance Claim Management System.
 - Focus: Cost-aware Architecture & Cloud Automation.
 - Key Achievement: Architected a production-ready system on AWS with a strict focus on cost-efficiency.
@@ -34,7 +34,7 @@ I believe in building software that is:
 I believe in leading through systems, well-defined boundaries, and documentation rather than micromanagement. A well-architected project should naturally guide the team toward best practices, allowing developers to work autonomously.
 
 **1. Code Structure & Architectural Strategy**
-- **Feature-Based Architecture:** Structuring applications by **Domain/Feature** (e.g., Claims, Users) rather than file types. This ensures isolation, prevents bloated folders, and makes onboarding new developers straightforward.
+- **Feature-Based Architecture:** Structuring applications by **Domain/Feature** (e.g., Claims, Users) rather than file types. This ensures isolation, prevents bloated folders, and makes onboarding new developers straightforward. [link](https://github.com/wachirawitS/next-feature-base-structure)
 - **Strict Module Boundaries:** Enforcing cross-feature communication via strict contracts (e.g., utilizing `index.ts` barrel files as public APIs). Feature A should never directly mutate the internal state of Feature B.
 - **Scalable Ecosystems:** Utilizing Monorepo strategies (where applicable) to share UI components (Shadcn) and core logic seamlessly across different user roles (Admin vs. Customer portals).
 
