@@ -40,7 +40,7 @@ I believe in leading through systems, well-defined boundaries, and documentation
 
 **2. Developer Experience (DX) & Team Workflow**
 - **Doc-Driven Development:** Relying on Architecture Decision Records (ADRs) and comprehensive READMEs as the team's single source of truth.
-- **Automated Guardrails:** Leveraging CI/CD pipelines to enforce code formatting, linting, and basic tests. This keeps Code Reviews focused on logic and architectural impact rather than syntax nitpicking.
+<!-- - **Automated Guardrails:** Leveraging CI/CD pipelines to enforce code formatting, linting, and basic tests. This keeps Code Reviews focused on logic and architectural impact rather than syntax nitpicking. -->
 - **Git Workflow:** Standardized PR processes with required approvals, ensuring main branches are permanently deployable.
 
 **3. Delivery Strategy**
