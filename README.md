@@ -31,7 +31,7 @@ I believe in building software that is:
 - Security-First: Proactive remediation and adherence to compliance standards.
 
 ## 🏗 Frontend Architecture & Team Management Playbook
-I believe in leading through systems, well-defined boundaries, and documentation rather than micromanagement. A well-architected project should naturally guide the team toward best practices, allowing developers to work autonomously. [Details](https://github.com/wachirawitS/next-feature-base-structure)
+I believe in leading through systems, well-defined boundaries, and documentation rather than micromanagement. A well-architected project should naturally guide the team toward best practices, allowing developers to work autonomously. [next-feature-base-structure](https://github.com/wachirawitS/next-feature-base-structure)
 
 **1. Code Structure & Architectural Strategy**
 - **Feature-Based Architecture:** Structuring applications by **Domain/Feature** (e.g., Claims, Users) rather than file types. This ensures isolation, prevents bloated folders, and makes onboarding new developers straightforward.
